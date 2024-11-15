@@ -1,3 +1,3 @@
-book_filename: "Your_Book_Title"
-title: "Your Custom Book Title"
+book_filename: "Portfolio"
 delete_merged_file: true
+output_dir: "docs"
